@@ -1,13 +1,20 @@
 /* TODO: Label selector type */
+
+/* ROOT Selector. setting the font family for the entire document */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
 /* TODO: Label selector type */
+
+/* html selectors */
+
+/* background color for the body of the doc */
 body {
   background-color: lemonchiffon;
 }
 
+/* styling for the header and footer of the doc */
 header,
 footer {
   width: 100%;
@@ -17,17 +24,24 @@ footer {
   background-color: #191970;
 }
 
+/* figure styling */
 figure {
   width: 200px;
   background-color: #f0ead6;
 }
 
+/* html selectors end */
+
 /* TODO: Label selector type */
+
+/* class selector changing the weight of the font */
 .highlighted-text {
   font-weight: bolder;
 }
 
 /* TODO: Label selector type */
+
+/* id selector changing the background color of section */
 #contact-section {
   background-color: #f0ead6;
 }
