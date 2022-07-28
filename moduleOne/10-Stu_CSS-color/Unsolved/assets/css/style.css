@@ -6,7 +6,7 @@
 .section-blue {
   background-color: blue;
   color: orange;
-  display: inline;
+  
 }
   
 .container {
@@ -19,7 +19,7 @@
   color: yellow;
 }
 
-#portfolio {
+#section-6 {
   color: yellow;
 
 }
