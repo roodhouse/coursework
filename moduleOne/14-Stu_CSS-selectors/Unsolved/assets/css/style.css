@@ -3,6 +3,7 @@
 /* ROOT Selector. setting the font family for the entire document */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: blue;
   }
 
 /* TODO: Label selector type */
@@ -44,4 +45,9 @@ figure {
 /* id selector changing the background color of section */
 #contact-section {
   background-color: #f0ead6;
+}
+
+#div-section ul li {
+  color: red;
+
 }
